@@ -16,9 +16,11 @@ redirect_from:
 
 <h2 style="color: #517ABD;">Research Interests</h2>
 
-* 雷达图像处理； <br/>
-* 多源信息融合； <br/>
-* 机器学习
+<ul>
+    <li>雷达图像处理</li>
+    <li>多源信息融合</li>
+    <li>机器学习</li>
+</ul>
 
 <h2 style="color: #517ABD;">Job Experience</h2>
 
