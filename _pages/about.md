@@ -16,7 +16,7 @@ redirect_from:
 * Radar image processing
 * Multi-source information fusion
 
-<h2 style="color: #0FF;">Job Experience</h2>
+<h2 style="color: #87CEEB;">Job Experience</h2>
 
 * 2020.12至今,  浙江工业大学, 信息工程学院, 朝晖特聘副研究员；
 * 2019.9至2020.8, 瑞典皇家理工学院, 摄影测量与遥感, CSC博士联合培养, 导师: Yifang Ban；
