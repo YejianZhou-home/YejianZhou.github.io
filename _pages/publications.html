@@ -18,7 +18,16 @@ author_profile: true
     <h2>{{ post.title }}</h2>
 
     <!-- Authors -->
-    <p><strong>Authors:</strong> {{ post.author }}</p>
+    <p><strong>Authors:</strong> 
+      {% for author in post.author | split: ',' %}
+        {% if author contains "周叶剑" %}
+          <strong>{{ author }}</strong>
+        {% else %}
+          {{ author }}
+        {% endif %}
+        {% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </p>
 
     <!-- Download link (if available) -->
     {% if post.paperurl %}
