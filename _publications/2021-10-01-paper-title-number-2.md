@@ -6,8 +6,8 @@ permalink: /publication/2021-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-10-01
 venue: '雷达学报'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://radars.ac.cn/article/exportPdf?id=eb929603-dc6d-4239-81b2-fb35759ed872'
 citation: '周叶剑，马岩，张磊，钟卫军，空间目标在轨状态雷达成像估计技术综述，雷达学报，2021, 10(4): 607–621.'
 ---
 
