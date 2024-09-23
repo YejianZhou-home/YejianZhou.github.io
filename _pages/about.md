@@ -11,12 +11,12 @@ redirect_from:
 
 <p span style="font-family: 'Times New Roman', serif;">Born in 1993 in Sanmen County, Zhejiang Province, China, he is a special associate researcher of Zhejiang University of Technology.In December 2020, he graduated from the State Key Laboratory of Radar Signal Processing, Xi'an University of Electronic Science and Technology, and obtained the Doctor of Engineering degree in Information and Communication Engineering.In December 2020, he joined the School of Information Engineering, Zhejiang University of Technology, and engaged in the teaching and scientific research, with his main research interests in the fields of Radar (SAR/ISAR) His main research interests include radar (SAR/ISAR) signal processing, radar image interpretation, multi-source information fusion, and machine learning. He is deeply involved in a number of National Natural Science Foundation of China, National 863 Project, 13th Five-Year Preliminary Research Project, presided over the project funding of nearly 2 million, published more than ten academic papers (including 7 as the first author of the IEEE Trans. collection of journals), and authorised by the National Patent 6.</span>
 
-<h2 style="color: 天蓝色;">Research Interests</h2>
+<h2 style="color:＃87CEFA;">Research Interests</h2>
 
 * Radar image processing
 * Multi-source information fusion
 
-<h2 style="color: 天蓝色;">Job Experience</h2>
+<h2 style="color:＃87CEFA;">Job Experience</h2>
 
 * 2020.12至今,  浙江工业大学, 信息工程学院, 朝晖特聘副研究员；
 * 2019.9至2020.8, 瑞典皇家理工学院, 摄影测量与遥感, CSC博士联合培养, 导师: Yifang Ban；
